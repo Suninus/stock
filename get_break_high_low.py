@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*-coding=utf-8-*-
 __author__ = 'rocky'
 #获取破指定天数内的新高 比如破60日新高
